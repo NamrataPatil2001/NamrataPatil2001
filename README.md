@@ -1,9 +1,9 @@
-# 🚀 VisvesvarayaCode  
+# 🚀 NamrataPatil2001 
 
-**"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
-— Sir M. Visvesvaraya  
 
-Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository inspired by the legendary Indian engineer **Sir M. Visvesvaraya**. This repo is a hub for **enterprise-grade backend solutions, dynamic web applications, and database-driven projects** using modern Java technologies. 
+**"Engineering transforms nature's power into innovation for humanity's progress."**
+
+Welcome to **NamrataPatil2001: Full-Stack Java Mastery**, a powerhouse repository inspired by the brilliance of Indian engineering. This hub is dedicated to **scalable backend solutions, interactive web applications, and robust database-driven projects**, all built with cutting-edge Java technologies. 🚀
 
 
 ---
@@ -24,7 +24,6 @@ Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository in
 
 ### 🗄️ **Database**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?style=for-the-badge&logo=oracle)  
 
 ---
 
@@ -41,7 +40,7 @@ Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository in
 🔹 Spring Framework (Spring Boot, Spring MVC, Spring Security)  
 
 ### 🗄️ **Database:**  
-🔹 MySQL, Oracle SQL  
+🔹 MySQL
 
  
 
@@ -59,17 +58,17 @@ Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository in
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VisvesvarayaCode&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamrataPatil9942&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisvesvarayaCode&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrataPatil9942&layout=compact&theme=tokyonight)
 
 ---
 
 ---
-
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+<!--
+![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)-->
 
