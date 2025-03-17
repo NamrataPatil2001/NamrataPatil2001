@@ -1,4 +1,4 @@
-![Image Description](https://www.canva.com/design/DAGhhUCfCDE/E76w3W41pJp5F-TWR1nSaQ/edit?utm_content=DAGhhUCfCDE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Image Description](Blue Modern Corporate Staff Profile LinkedIn Banner (1).png)
 # 🚀 NamrataPatil2001 
 
 
