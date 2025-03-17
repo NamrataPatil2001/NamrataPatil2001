@@ -1,10 +1,11 @@
-![Image Description](Blue Modern Corporate Staff Profile LinkedIn Banner (1).png)
 # 🚀 NamrataPatil2001 
 
 
 **"Engineering transforms nature's power into innovation for humanity's progress."**
 
 Welcome to **NamrataPatil2001: Full-Stack Java Mastery**, a powerhouse repository inspired by the brilliance of Indian engineering. This hub is dedicated to **scalable backend solutions, interactive web applications, and robust database-driven projects**, all built with cutting-edge Java technologies. 🚀
+
+![cover](https://github.com/NamrataPatil2001/NamrataPatil2001/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner%20(1).png)
 
 
 ---
